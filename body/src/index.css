@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* index.css */
+body {
+  background-color: black;
+  color: white;
+}
+@font-face {
+  font-family: 'MuseoModerno-SemiBold';
+  src: url('/src/assets/fonts/MuseoModerno-SemiBold.ttf') format('truetype');
+  font-weight:SemiBold;
+  font-style: normal;
+}
